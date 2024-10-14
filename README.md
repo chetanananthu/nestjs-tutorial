@@ -7,9 +7,10 @@
     <li>cd file_name</li>
     <li>npm install @nestjs/typeorm typeorm</li>
     <li>npm install mysql2 -->if you want to conect with mysql</li>
-    <li>nest g resource entity_name
+    <li>nest g resource entity_name</li>
+    <ol>
       <li>by default it creates all resource like controller,service,entity</li>
     <li>select RESTAPI from drop down press enter then press Y</li>
-    </li>
+    </ol>
   </ul>
 </div>
